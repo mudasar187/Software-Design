@@ -1,6 +1,6 @@
 # Software Design
 
-## Software Design Exam fall 2017
+## Exam fall 2017
 
 - UML
 - GRASP
