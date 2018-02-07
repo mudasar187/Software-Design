@@ -1,4 +1,4 @@
-# Software Design
+# Software Design PG3300
 
 ## Exam fall 2017
 
@@ -6,6 +6,7 @@
 - GRASP
 - Design patterns
 - Multithreading
+
 
 ## Snake
 
